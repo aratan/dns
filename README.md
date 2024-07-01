@@ -9,6 +9,8 @@ youtube.es.     300     IN      AAAA    2a00:1450:4003:806::200e
 
 
 ## nslookup youtube.es 127.0.0.1
+## nslookup -query=TXT dataarchitectai.link 127.0.0.1
+
 Servidor:  UnKnown
 Address:  127.0.0.1
 
