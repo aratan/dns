@@ -23,6 +23,13 @@ Addresses:  2a00:1450:4003:806::200e
 
 
 ## La ultima actualizacion va con cifrado:
+
+openssl genpkey -algorithm RSA -out key.pem
+openssl req -new -key key.pem -out cert.csr
+openssl x509 -req -days 365 -in cert.csr -signkey key.pem -out cert.pem
+
+
+
 netstat -an | findstr :53
 netstat -an | findstr :443
 
