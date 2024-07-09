@@ -6,5 +6,5 @@ dns_server:
     server: "8.8.8.8:53"
   https:
     address: ":443"
-    cert_file: "path/to/cert.pem"
-    key_file: "path/to/key.pem"
+    cert_file: "cert.pem"
+    key_file: "key.pem"

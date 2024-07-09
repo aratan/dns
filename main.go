@@ -54,5 +54,6 @@ func main() {
     go StartDNSServer(config)
     go StartHTTPSServer(config)
 
-    select {} // Mantener el main en ejecución
+    // Mantener el programa en ejecución
+    select {}
 }

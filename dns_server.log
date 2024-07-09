@@ -1,0 +1,28 @@
+2024/07/09 15:38:56 DNS server is starting...
+2024/07/09 15:38:56 Starting HTTPS DNS server on port 443
+2024/07/09 15:38:56 Starting DNS server on port 53
+2024/07/09 15:38:56 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:39:04 DNS server is starting...
+2024/07/09 15:39:04 Starting HTTPS DNS server on port 443
+2024/07/09 15:39:04 Starting DNS server on port 53
+2024/07/09 15:39:04 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:40:33 DNS server is starting...
+2024/07/09 15:40:33 Starting HTTPS DNS server on port 443
+2024/07/09 15:40:33 Starting DNS server on port 53
+2024/07/09 15:40:33 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:47:39 DNS server is starting...
+2024/07/09 15:47:39 Starting HTTPS DNS server on port 443
+2024/07/09 15:47:39 Starting DNS server on port 53
+2024/07/09 15:47:39 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:48:08 DNS server is starting...
+2024/07/09 15:48:08 Starting HTTPS DNS server on port 443
+2024/07/09 15:48:08 Starting DNS server on port 53
+2024/07/09 15:48:08 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:48:29 DNS server is starting...
+2024/07/09 15:48:29 Starting HTTPS DNS server on port 443
+2024/07/09 15:48:29 Starting DNS server on port 53
+2024/07/09 15:48:29 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
+2024/07/09 15:48:45 DNS server is starting...
+2024/07/09 15:48:45 Starting HTTPS DNS server on port 443
+2024/07/09 15:48:45 Starting DNS server on port 53
+2024/07/09 15:48:45 [ERROR] Failed to start HTTPS server: open cert.pem: El sistema no puede encontrar el archivo especificado.
