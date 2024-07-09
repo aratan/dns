@@ -20,3 +20,12 @@ Addresses:  2a00:1450:4003:806::200e
 
 
 ##  go get github.com/miekg/dns
+
+
+## La ultima actualizacion va con cifrado:
+netstat -an | findstr :53
+netstat -an | findstr :443
+
+nslookup -port=53 www.example.com 127.0.0.1
+
+curl -X POST -H "Content-Type: application/dns-message" --data-binary @dns_query.bin https://localhost:443
